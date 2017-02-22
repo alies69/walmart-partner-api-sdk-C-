@@ -1,0 +1,1 @@
+C:\Users\Arshad\Documents\GitHub\walmart-partner-api-sdk-C-\WalmartAPI\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
