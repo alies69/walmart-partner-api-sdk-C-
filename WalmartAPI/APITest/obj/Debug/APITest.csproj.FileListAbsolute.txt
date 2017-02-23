@@ -1,0 +1,2 @@
+C:\Users\Arshad\Documents\GitHub\walmart-partner-api-sdk-C-\WalmartAPI\APITest\bin\Debug\APITest.exe.config
+C:\Users\Arshad\Documents\GitHub\walmart-partner-api-sdk-C-\WalmartAPI\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Arshad\Documents\GitHub\walmart-partner-api-sdk-C-\WalmartAPI\Model\bin\Debug\Model.dll
+C:\Users\Arshad\Documents\GitHub\walmart-partner-api-sdk-C-\WalmartAPI\Model\bin\Debug\Model.pdb
+C:\Users\Arshad\Documents\GitHub\walmart-partner-api-sdk-C-\WalmartAPI\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Arshad\Documents\GitHub\walmart-partner-api-sdk-C-\WalmartAPI\Model\obj\Debug\Model.dll
+C:\Users\Arshad\Documents\GitHub\walmart-partner-api-sdk-C-\WalmartAPI\Model\obj\Debug\Model.pdb
